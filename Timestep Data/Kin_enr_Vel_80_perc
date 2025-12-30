@@ -1,0 +1,1020 @@
+QUERY DESCRIPTIONS
+
+Q01 : Average Particle Kinetic Energy
+GROUP/TYPE:,All
+SELECTED OBJECTS:,All
+RANGE:,None
+UNITS:,J
+
+Q02 : Average Particle Velocity Magnitude
+GROUP/TYPE:,All
+SELECTED OBJECTS:,All
+RANGE:,None
+UNITS:,m/s
+
+EXTRACTED DATA
+
+TIME:,0
+Q01 : Average Particle Kinetic Energy:,0
+Q02 : Average Particle Velocity Magnitude:,0
+
+TIME:,0.0100034
+Q01 : Average Particle Kinetic Energy:,2.5678275634978188e-07
+Q02 : Average Particle Velocity Magnitude:,0.049971258952000566
+
+TIME:,0.0200483
+Q01 : Average Particle Kinetic Energy:,1.0150286902872309e-06
+Q02 : Average Particle Velocity Magnitude:,0.099479312610733395
+
+TIME:,0.0300242
+Q01 : Average Particle Kinetic Energy:,2.2505588893489157e-06
+Q02 : Average Particle Velocity Magnitude:,0.14833180522256006
+
+TIME:,0.0400649
+Q01 : Average Particle Kinetic Energy:,3.9716071437678197e-06
+Q02 : Average Particle Velocity Magnitude:,0.19784864341583649
+
+TIME:,0.0500373
+Q01 : Average Particle Kinetic Energy:,6.1704035002497043e-06
+Q02 : Average Particle Velocity Magnitude:,0.24702012051784228
+
+TIME:,0.0600096
+Q01 : Average Particle Kinetic Energy:,8.7688989166336204e-06
+Q02 : Average Particle Velocity Magnitude:,0.29620209266272346
+
+TIME:,0.0700471
+Q01 : Average Particle Kinetic Energy:,1.1892557796065446e-05
+Q02 : Average Particle Velocity Magnitude:,0.34621973999818628
+
+TIME:,0.0800194
+Q01 : Average Particle Kinetic Energy:,1.5318737459085184e-05
+Q02 : Average Particle Velocity Magnitude:,0.39554799930027229
+
+TIME:,0.0900569
+Q01 : Average Particle Kinetic Energy:,1.9221869487734288e-05
+Q02 : Average Particle Velocity Magnitude:,0.44610268180399076
+
+TIME:,0.100029
+Q01 : Average Particle Kinetic Energy:,2.3318730452268634e-05
+Q02 : Average Particle Velocity Magnitude:,0.49544370979615598
+
+TIME:,0.110002
+Q01 : Average Particle Kinetic Energy:,2.8146198871855268e-05
+Q02 : Average Particle Velocity Magnitude:,0.54451783473283011
+
+TIME:,0.120039
+Q01 : Average Particle Kinetic Energy:,3.3522969822223501e-05
+Q02 : Average Particle Velocity Magnitude:,0.5941570804007329
+
+TIME:,0.130011
+Q01 : Average Particle Kinetic Energy:,3.8967522025053672e-05
+Q02 : Average Particle Velocity Magnitude:,0.64362741484538089
+
+TIME:,0.140049
+Q01 : Average Particle Kinetic Energy:,4.541577583940992e-05
+Q02 : Average Particle Velocity Magnitude:,0.6925057868354183
+
+TIME:,0.150021
+Q01 : Average Particle Kinetic Energy:,5.2312463841539894e-05
+Q02 : Average Particle Velocity Magnitude:,0.74134598591396028
+
+TIME:,0.160059
+Q01 : Average Particle Kinetic Energy:,5.9669310719122965e-05
+Q02 : Average Particle Velocity Magnitude:,0.79075389056683054
+
+TIME:,0.170031
+Q01 : Average Particle Kinetic Energy:,6.7531448682165844e-05
+Q02 : Average Particle Velocity Magnitude:,0.84011958601008563
+
+TIME:,0.180003
+Q01 : Average Particle Kinetic Energy:,7.4176763208479179e-05
+Q02 : Average Particle Velocity Magnitude:,0.87947313932372129
+
+TIME:,0.190041
+Q01 : Average Particle Kinetic Energy:,8.0376940228111884e-05
+Q02 : Average Particle Velocity Magnitude:,0.91215996065208049
+
+TIME:,0.200013
+Q01 : Average Particle Kinetic Energy:,8.4425835798165167e-05
+Q02 : Average Particle Velocity Magnitude:,0.93443715282325812
+
+TIME:,0.210051
+Q01 : Average Particle Kinetic Energy:,8.8984673068281679e-05
+Q02 : Average Particle Velocity Magnitude:,0.95376471142230557
+
+TIME:,0.220023
+Q01 : Average Particle Kinetic Energy:,9.0560256939956846e-05
+Q02 : Average Particle Velocity Magnitude:,0.95509259386156165
+
+TIME:,0.23006
+Q01 : Average Particle Kinetic Energy:,9.0188470385607362e-05
+Q02 : Average Particle Velocity Magnitude:,0.94317204382293918
+
+TIME:,0.240032
+Q01 : Average Particle Kinetic Energy:,8.8665744559023721e-05
+Q02 : Average Particle Velocity Magnitude:,0.92513796552036898
+
+TIME:,0.250004
+Q01 : Average Particle Kinetic Energy:,8.0464904129511785e-05
+Q02 : Average Particle Velocity Magnitude:,0.87282368124629361
+
+TIME:,0.260041
+Q01 : Average Particle Kinetic Energy:,7.1734382824949273e-05
+Q02 : Average Particle Velocity Magnitude:,0.80790805171825542
+
+TIME:,0.270013
+Q01 : Average Particle Kinetic Energy:,5.974687556378574e-05
+Q02 : Average Particle Velocity Magnitude:,0.71869714937461981
+
+TIME:,0.28005
+Q01 : Average Particle Kinetic Energy:,5.8887058272565681e-05
+Q02 : Average Particle Velocity Magnitude:,0.68979446046560211
+
+TIME:,0.290022
+Q01 : Average Particle Kinetic Energy:,5.9952188166626416e-05
+Q02 : Average Particle Velocity Magnitude:,0.68135505613062441
+
+TIME:,0.300059
+Q01 : Average Particle Kinetic Energy:,6.1366175304788842e-05
+Q02 : Average Particle Velocity Magnitude:,0.68207721612260774
+
+TIME:,0.310031
+Q01 : Average Particle Kinetic Energy:,6.4078145181407835e-05
+Q02 : Average Particle Velocity Magnitude:,0.68500556327316475
+
+TIME:,0.320003
+Q01 : Average Particle Kinetic Energy:,6.4951266054928816e-05
+Q02 : Average Particle Velocity Magnitude:,0.68674843574318323
+
+TIME:,0.33004
+Q01 : Average Particle Kinetic Energy:,5.9248486358767224e-05
+Q02 : Average Particle Velocity Magnitude:,0.65016189206783359
+
+TIME:,0.340012
+Q01 : Average Particle Kinetic Energy:,5.072157787202032e-05
+Q02 : Average Particle Velocity Magnitude:,0.59223080350974466
+
+TIME:,0.350049
+Q01 : Average Particle Kinetic Energy:,4.3982217484686815e-05
+Q02 : Average Particle Velocity Magnitude:,0.53387205209951527
+
+TIME:,0.360021
+Q01 : Average Particle Kinetic Energy:,4.5435691766540278e-05
+Q02 : Average Particle Velocity Magnitude:,0.51721395564890993
+
+TIME:,0.370058
+Q01 : Average Particle Kinetic Energy:,4.9863654341457605e-05
+Q02 : Average Particle Velocity Magnitude:,0.5388299933767261
+
+TIME:,0.38003
+Q01 : Average Particle Kinetic Energy:,4.9667434760121612e-05
+Q02 : Average Particle Velocity Magnitude:,0.5410851796156797
+
+TIME:,0.390002
+Q01 : Average Particle Kinetic Energy:,4.4378277313983613e-05
+Q02 : Average Particle Velocity Magnitude:,0.51113309420051001
+
+TIME:,0.400039
+Q01 : Average Particle Kinetic Energy:,4.0663725930777282e-05
+Q02 : Average Particle Velocity Magnitude:,0.4788672430114842
+
+TIME:,0.410011
+Q01 : Average Particle Kinetic Energy:,3.6998080587921109e-05
+Q02 : Average Particle Velocity Magnitude:,0.444258927826927
+
+TIME:,0.420048
+Q01 : Average Particle Kinetic Energy:,3.5589166279054613e-05
+Q02 : Average Particle Velocity Magnitude:,0.42249558367020013
+
+TIME:,0.43002
+Q01 : Average Particle Kinetic Energy:,3.6982801910449955e-05
+Q02 : Average Particle Velocity Magnitude:,0.425253573312594
+
+TIME:,0.440057
+Q01 : Average Particle Kinetic Energy:,3.5557395267797665e-05
+Q02 : Average Particle Velocity Magnitude:,0.41883054572285316
+
+TIME:,0.450029
+Q01 : Average Particle Kinetic Energy:,3.3540171504373075e-05
+Q02 : Average Particle Velocity Magnitude:,0.40296293253853427
+
+TIME:,0.460001
+Q01 : Average Particle Kinetic Energy:,3.2543473470610412e-05
+Q02 : Average Particle Velocity Magnitude:,0.38982193665346293
+
+TIME:,0.470039
+Q01 : Average Particle Kinetic Energy:,3.1928676699915494e-05
+Q02 : Average Particle Velocity Magnitude:,0.38250360575290498
+
+TIME:,0.48001
+Q01 : Average Particle Kinetic Energy:,2.9900689512516881e-05
+Q02 : Average Particle Velocity Magnitude:,0.36565470735500749
+
+TIME:,0.490048
+Q01 : Average Particle Kinetic Energy:,3.0105717273944423e-05
+Q02 : Average Particle Velocity Magnitude:,0.36552219361360405
+
+TIME:,0.50002
+Q01 : Average Particle Kinetic Energy:,3.0428821732907038e-05
+Q02 : Average Particle Velocity Magnitude:,0.36372430858065924
+
+TIME:,0.510057
+Q01 : Average Particle Kinetic Energy:,2.8001395541309499e-05
+Q02 : Average Particle Velocity Magnitude:,0.34793736737741793
+
+TIME:,0.520029
+Q01 : Average Particle Kinetic Energy:,2.6663262111156871e-05
+Q02 : Average Particle Velocity Magnitude:,0.3306316618777177
+
+TIME:,0.530001
+Q01 : Average Particle Kinetic Energy:,2.7113934623682852e-05
+Q02 : Average Particle Velocity Magnitude:,0.32426807415836278
+
+TIME:,0.540038
+Q01 : Average Particle Kinetic Energy:,2.8379147414866396e-05
+Q02 : Average Particle Velocity Magnitude:,0.33094727883225783
+
+TIME:,0.55001
+Q01 : Average Particle Kinetic Energy:,2.7779430012363478e-05
+Q02 : Average Particle Velocity Magnitude:,0.33138647354339279
+
+TIME:,0.560047
+Q01 : Average Particle Kinetic Energy:,2.2078524224820092e-05
+Q02 : Average Particle Velocity Magnitude:,0.29461319212936293
+
+TIME:,0.570019
+Q01 : Average Particle Kinetic Energy:,2.1042971265246113e-05
+Q02 : Average Particle Velocity Magnitude:,0.27611051876207476
+
+TIME:,0.580056
+Q01 : Average Particle Kinetic Energy:,2.2114431074013405e-05
+Q02 : Average Particle Velocity Magnitude:,0.2777928534303799
+
+TIME:,0.590028
+Q01 : Average Particle Kinetic Energy:,2.2759579286759959e-05
+Q02 : Average Particle Velocity Magnitude:,0.28265384672917271
+
+TIME:,0.600065
+Q01 : Average Particle Kinetic Energy:,2.1804574774369338e-05
+Q02 : Average Particle Velocity Magnitude:,0.27672215960322949
+
+TIME:,0.610037
+Q01 : Average Particle Kinetic Energy:,2.1469991404787093e-05
+Q02 : Average Particle Velocity Magnitude:,0.27075576788988459
+
+TIME:,0.620009
+Q01 : Average Particle Kinetic Energy:,1.908137988416167e-05
+Q02 : Average Particle Velocity Magnitude:,0.25687874347573131
+
+TIME:,0.630046
+Q01 : Average Particle Kinetic Energy:,1.8331881859219391e-05
+Q02 : Average Particle Velocity Magnitude:,0.24547210693032567
+
+TIME:,0.640018
+Q01 : Average Particle Kinetic Energy:,1.7888324061359573e-05
+Q02 : Average Particle Velocity Magnitude:,0.23961437222725884
+
+TIME:,0.650055
+Q01 : Average Particle Kinetic Energy:,1.8780687750584273e-05
+Q02 : Average Particle Velocity Magnitude:,0.24187048044943577
+
+TIME:,0.660027
+Q01 : Average Particle Kinetic Energy:,1.923383182922532e-05
+Q02 : Average Particle Velocity Magnitude:,0.24453064481527387
+
+TIME:,0.670064
+Q01 : Average Particle Kinetic Energy:,1.8595146500502577e-05
+Q02 : Average Particle Velocity Magnitude:,0.24602878849572726
+
+TIME:,0.680036
+Q01 : Average Particle Kinetic Energy:,1.7308984886717863e-05
+Q02 : Average Particle Velocity Magnitude:,0.23280053608154558
+
+TIME:,0.690008
+Q01 : Average Particle Kinetic Energy:,1.6122934338493252e-05
+Q02 : Average Particle Velocity Magnitude:,0.22054827444518732
+
+TIME:,0.700045
+Q01 : Average Particle Kinetic Energy:,1.521345020353639e-05
+Q02 : Average Particle Velocity Magnitude:,0.21285704959702764
+
+TIME:,0.710017
+Q01 : Average Particle Kinetic Energy:,1.5684546525739633e-05
+Q02 : Average Particle Velocity Magnitude:,0.21168407157312635
+
+TIME:,0.720054
+Q01 : Average Particle Kinetic Energy:,1.6334599866269992e-05
+Q02 : Average Particle Velocity Magnitude:,0.2158680628101142
+
+TIME:,0.730026
+Q01 : Average Particle Kinetic Energy:,1.6163956091912273e-05
+Q02 : Average Particle Velocity Magnitude:,0.21619943002296854
+
+TIME:,0.740063
+Q01 : Average Particle Kinetic Energy:,1.4938241104109864e-05
+Q02 : Average Particle Velocity Magnitude:,0.20821581682128032
+
+TIME:,0.750035
+Q01 : Average Particle Kinetic Energy:,1.4177587767428759e-05
+Q02 : Average Particle Velocity Magnitude:,0.19778654602346077
+
+TIME:,0.760007
+Q01 : Average Particle Kinetic Energy:,1.280983963017849e-05
+Q02 : Average Particle Velocity Magnitude:,0.19075802334426165
+
+TIME:,0.770044
+Q01 : Average Particle Kinetic Energy:,1.1597090126955619e-05
+Q02 : Average Particle Velocity Magnitude:,0.17481975804104607
+
+TIME:,0.780016
+Q01 : Average Particle Kinetic Energy:,1.1776450254984998e-05
+Q02 : Average Particle Velocity Magnitude:,0.1713106156117146
+
+TIME:,0.790053
+Q01 : Average Particle Kinetic Energy:,1.2765502942913091e-05
+Q02 : Average Particle Velocity Magnitude:,0.17591676258385511
+
+TIME:,0.800025
+Q01 : Average Particle Kinetic Energy:,1.2082323638816269e-05
+Q02 : Average Particle Velocity Magnitude:,0.17857743723895519
+
+TIME:,0.810062
+Q01 : Average Particle Kinetic Energy:,1.093045692595288e-05
+Q02 : Average Particle Velocity Magnitude:,0.16983163991344172
+
+TIME:,0.820034
+Q01 : Average Particle Kinetic Energy:,1.0525162146475463e-05
+Q02 : Average Particle Velocity Magnitude:,0.16096313987401803
+
+TIME:,0.830006
+Q01 : Average Particle Kinetic Energy:,1.0990638810650668e-05
+Q02 : Average Particle Velocity Magnitude:,0.16087580187776096
+
+TIME:,0.840043
+Q01 : Average Particle Kinetic Energy:,1.1215873779544742e-05
+Q02 : Average Particle Velocity Magnitude:,0.16611273119208955
+
+TIME:,0.850015
+Q01 : Average Particle Kinetic Energy:,1.0554379666869554e-05
+Q02 : Average Particle Velocity Magnitude:,0.15984614550068249
+
+TIME:,0.860052
+Q01 : Average Particle Kinetic Energy:,1.0391328968915474e-05
+Q02 : Average Particle Velocity Magnitude:,0.15697816065422171
+
+TIME:,0.870024
+Q01 : Average Particle Kinetic Energy:,9.7981850955455158e-06
+Q02 : Average Particle Velocity Magnitude:,0.1539267509641549
+
+TIME:,0.880061
+Q01 : Average Particle Kinetic Energy:,8.8839476837744194e-06
+Q02 : Average Particle Velocity Magnitude:,0.14436269611685074
+
+TIME:,0.890033
+Q01 : Average Particle Kinetic Energy:,8.7975039230813982e-06
+Q02 : Average Particle Velocity Magnitude:,0.14205121396367676
+
+TIME:,0.900005
+Q01 : Average Particle Kinetic Energy:,9.0404686513855092e-06
+Q02 : Average Particle Velocity Magnitude:,0.13988706433840317
+
+TIME:,0.910042
+Q01 : Average Particle Kinetic Energy:,8.8721485476947417e-06
+Q02 : Average Particle Velocity Magnitude:,0.14097378557107085
+
+TIME:,0.920014
+Q01 : Average Particle Kinetic Energy:,8.6209924334832536e-06
+Q02 : Average Particle Velocity Magnitude:,0.13685728276198827
+
+TIME:,0.930052
+Q01 : Average Particle Kinetic Energy:,8.571176181492526e-06
+Q02 : Average Particle Velocity Magnitude:,0.13558741912624614
+
+TIME:,0.940023
+Q01 : Average Particle Kinetic Energy:,8.2938881106942017e-06
+Q02 : Average Particle Velocity Magnitude:,0.13508781138008646
+
+TIME:,0.950061
+Q01 : Average Particle Kinetic Energy:,7.4791836867468931e-06
+Q02 : Average Particle Velocity Magnitude:,0.12699236271830486
+
+TIME:,0.960033
+Q01 : Average Particle Kinetic Energy:,7.0124580227893396e-06
+Q02 : Average Particle Velocity Magnitude:,0.12210701842089405
+
+TIME:,0.970004
+Q01 : Average Particle Kinetic Energy:,6.9213712120106969e-06
+Q02 : Average Particle Velocity Magnitude:,0.11873432199028451
+
+TIME:,0.980041
+Q01 : Average Particle Kinetic Energy:,6.9304826895577849e-06
+Q02 : Average Particle Velocity Magnitude:,0.11997333754998528
+
+TIME:,0.990013
+Q01 : Average Particle Kinetic Energy:,6.7867663245124424e-06
+Q02 : Average Particle Velocity Magnitude:,0.1181873147930099
+
+TIME:,1.00005
+Q01 : Average Particle Kinetic Energy:,7.3742375491083628e-06
+Q02 : Average Particle Velocity Magnitude:,0.12183412550961707
+
+TIME:,1.01002
+Q01 : Average Particle Kinetic Energy:,7.2155667539015285e-06
+Q02 : Average Particle Velocity Magnitude:,0.12418912157356336
+
+TIME:,1.02006
+Q01 : Average Particle Kinetic Energy:,6.7356856440847488e-06
+Q02 : Average Particle Velocity Magnitude:,0.11900899981228982
+
+TIME:,1.03003
+Q01 : Average Particle Kinetic Energy:,6.1594865251555239e-06
+Q02 : Average Particle Velocity Magnitude:,0.11023215179860928
+
+TIME:,1.04
+Q01 : Average Particle Kinetic Energy:,6.1955154517650186e-06
+Q02 : Average Particle Velocity Magnitude:,0.10284552408212808
+
+TIME:,1.05004
+Q01 : Average Particle Kinetic Energy:,5.9443713966242838e-06
+Q02 : Average Particle Velocity Magnitude:,0.098652002296211905
+
+TIME:,1.06001
+Q01 : Average Particle Kinetic Energy:,5.8914733016419865e-06
+Q02 : Average Particle Velocity Magnitude:,0.091896455872514243
+
+TIME:,1.07005
+Q01 : Average Particle Kinetic Energy:,5.336271029098204e-06
+Q02 : Average Particle Velocity Magnitude:,0.085432559746541126
+
+TIME:,1.08002
+Q01 : Average Particle Kinetic Energy:,4.517531682926875e-06
+Q02 : Average Particle Velocity Magnitude:,0.075328305064531462
+
+TIME:,1.09006
+Q01 : Average Particle Kinetic Energy:,3.6288470057996504e-06
+Q02 : Average Particle Velocity Magnitude:,0.063011482439007921
+
+TIME:,1.10003
+Q01 : Average Particle Kinetic Energy:,3.1401361168064486e-06
+Q02 : Average Particle Velocity Magnitude:,0.05438762986489834
+
+TIME:,1.11
+Q01 : Average Particle Kinetic Energy:,2.6051390268602866e-06
+Q02 : Average Particle Velocity Magnitude:,0.047909134464715127
+
+TIME:,1.12004
+Q01 : Average Particle Kinetic Energy:,2.1783480868033224e-06
+Q02 : Average Particle Velocity Magnitude:,0.04054755316418223
+
+TIME:,1.13001
+Q01 : Average Particle Kinetic Energy:,1.3111039402474398e-06
+Q02 : Average Particle Velocity Magnitude:,0.035063590516564304
+
+TIME:,1.14005
+Q01 : Average Particle Kinetic Energy:,7.021301535415155e-07
+Q02 : Average Particle Velocity Magnitude:,0.025187225611199002
+
+TIME:,1.15002
+Q01 : Average Particle Kinetic Energy:,3.4698889310697732e-07
+Q02 : Average Particle Velocity Magnitude:,0.018914579247819106
+
+TIME:,1.16006
+Q01 : Average Particle Kinetic Energy:,9.7432530815943263e-08
+Q02 : Average Particle Velocity Magnitude:,0.01530387133237748
+
+TIME:,1.17003
+Q01 : Average Particle Kinetic Energy:,6.8110993037618025e-08
+Q02 : Average Particle Velocity Magnitude:,0.012686178430105237
+
+TIME:,1.18006
+Q01 : Average Particle Kinetic Energy:,4.8077456142289863e-08
+Q02 : Average Particle Velocity Magnitude:,0.012088005829028258
+
+TIME:,1.19004
+Q01 : Average Particle Kinetic Energy:,3.7007190362152738e-08
+Q02 : Average Particle Velocity Magnitude:,0.011282426527439542
+
+TIME:,1.20001
+Q01 : Average Particle Kinetic Energy:,2.7823656374923422e-08
+Q02 : Average Particle Velocity Magnitude:,0.010662221761605266
+
+TIME:,1.21004
+Q01 : Average Particle Kinetic Energy:,2.4657776700565958e-08
+Q02 : Average Particle Velocity Magnitude:,0.010145144376879623
+
+TIME:,1.22002
+Q01 : Average Particle Kinetic Energy:,2.2725730769224866e-08
+Q02 : Average Particle Velocity Magnitude:,0.010139832124363368
+
+TIME:,1.23005
+Q01 : Average Particle Kinetic Energy:,2.0342894453804329e-08
+Q02 : Average Particle Velocity Magnitude:,0.009822356719221945
+
+TIME:,1.24003
+Q01 : Average Particle Kinetic Energy:,2.2053327646908143e-08
+Q02 : Average Particle Velocity Magnitude:,0.010147758345626215
+
+TIME:,1.25006
+Q01 : Average Particle Kinetic Energy:,1.9612877706993991e-08
+Q02 : Average Particle Velocity Magnitude:,0.0098692685636546425
+
+TIME:,1.26003
+Q01 : Average Particle Kinetic Energy:,1.9053726391148928e-08
+Q02 : Average Particle Velocity Magnitude:,0.0097114042687084096
+
+TIME:,1.27001
+Q01 : Average Particle Kinetic Energy:,1.7062001974908609e-08
+Q02 : Average Particle Velocity Magnitude:,0.0094406833677667754
+
+TIME:,1.28004
+Q01 : Average Particle Kinetic Energy:,1.6853006805998529e-08
+Q02 : Average Particle Velocity Magnitude:,0.0093317895096487018
+
+TIME:,1.29001
+Q01 : Average Particle Kinetic Energy:,1.9587461069987199e-08
+Q02 : Average Particle Velocity Magnitude:,0.0097739403794628588
+
+TIME:,1.30005
+Q01 : Average Particle Kinetic Energy:,2.0733283889447439e-08
+Q02 : Average Particle Velocity Magnitude:,0.0099848357195972074
+
+TIME:,1.31002
+Q01 : Average Particle Kinetic Energy:,7.3341953117457792e-08
+Q02 : Average Particle Velocity Magnitude:,0.026334726680602008
+
+TIME:,1.32006
+Q01 : Average Particle Kinetic Energy:,2.8109044764067292e-07
+Q02 : Average Particle Velocity Magnitude:,0.05124790376053464
+
+TIME:,1.33003
+Q01 : Average Particle Kinetic Energy:,5.2126470940095319e-07
+Q02 : Average Particle Velocity Magnitude:,0.065123208626717277
+
+TIME:,1.34
+Q01 : Average Particle Kinetic Energy:,8.4551998027888342e-07
+Q02 : Average Particle Velocity Magnitude:,0.080236688673022291
+
+TIME:,1.35004
+Q01 : Average Particle Kinetic Energy:,1.269698069441561e-06
+Q02 : Average Particle Velocity Magnitude:,0.095006558432082971
+
+TIME:,1.36001
+Q01 : Average Particle Kinetic Energy:,1.8500133320264869e-06
+Q02 : Average Particle Velocity Magnitude:,0.11137554093507034
+
+TIME:,1.37005
+Q01 : Average Particle Kinetic Energy:,2.5165696796408926e-06
+Q02 : Average Particle Velocity Magnitude:,0.12612329778872342
+
+TIME:,1.38002
+Q01 : Average Particle Kinetic Energy:,3.424519430002594e-06
+Q02 : Average Particle Velocity Magnitude:,0.14494113572576142
+
+TIME:,1.39006
+Q01 : Average Particle Kinetic Energy:,4.4199121229220533e-06
+Q02 : Average Particle Velocity Magnitude:,0.16249462165700959
+
+TIME:,1.40003
+Q01 : Average Particle Kinetic Energy:,5.3723026001430024e-06
+Q02 : Average Particle Velocity Magnitude:,0.17686855557534781
+
+TIME:,1.41
+Q01 : Average Particle Kinetic Energy:,6.3549918865948684e-06
+Q02 : Average Particle Velocity Magnitude:,0.18950237270204107
+
+TIME:,1.42004
+Q01 : Average Particle Kinetic Energy:,7.0208455352490212e-06
+Q02 : Average Particle Velocity Magnitude:,0.19560190584494383
+
+TIME:,1.43001
+Q01 : Average Particle Kinetic Energy:,7.6175078365011135e-06
+Q02 : Average Particle Velocity Magnitude:,0.20192232860099965
+
+TIME:,1.44005
+Q01 : Average Particle Kinetic Energy:,8.1159625986768826e-06
+Q02 : Average Particle Velocity Magnitude:,0.20749204839601393
+
+TIME:,1.45002
+Q01 : Average Particle Kinetic Energy:,8.6070271065124649e-06
+Q02 : Average Particle Velocity Magnitude:,0.21342043351847223
+
+TIME:,1.46006
+Q01 : Average Particle Kinetic Energy:,8.6460037288953018e-06
+Q02 : Average Particle Velocity Magnitude:,0.21312729343977513
+
+TIME:,1.47003
+Q01 : Average Particle Kinetic Energy:,8.1979739409939796e-06
+Q02 : Average Particle Velocity Magnitude:,0.20932954766761072
+
+TIME:,1.48
+Q01 : Average Particle Kinetic Energy:,7.7546230628458906e-06
+Q02 : Average Particle Velocity Magnitude:,0.20403674611051426
+
+TIME:,1.49004
+Q01 : Average Particle Kinetic Energy:,7.2584587701276438e-06
+Q02 : Average Particle Velocity Magnitude:,0.19827900606164045
+
+TIME:,1.50001
+Q01 : Average Particle Kinetic Energy:,6.8783759336709627e-06
+Q02 : Average Particle Velocity Magnitude:,0.19467109551597239
+
+TIME:,1.51005
+Q01 : Average Particle Kinetic Energy:,6.6314489492183034e-06
+Q02 : Average Particle Velocity Magnitude:,0.19119809676892185
+
+TIME:,1.52002
+Q01 : Average Particle Kinetic Energy:,6.362984768812389e-06
+Q02 : Average Particle Velocity Magnitude:,0.18861337727263169
+
+TIME:,1.53006
+Q01 : Average Particle Kinetic Energy:,6.1044684257490091e-06
+Q02 : Average Particle Velocity Magnitude:,0.18677034807560713
+
+TIME:,1.54003
+Q01 : Average Particle Kinetic Energy:,5.6688190678745485e-06
+Q02 : Average Particle Velocity Magnitude:,0.18060915723287707
+
+TIME:,1.55006
+Q01 : Average Particle Kinetic Energy:,5.1040884399422226e-06
+Q02 : Average Particle Velocity Magnitude:,0.17251810017547112
+
+TIME:,1.56004
+Q01 : Average Particle Kinetic Energy:,4.6812426060441278e-06
+Q02 : Average Particle Velocity Magnitude:,0.1647938115069606
+
+TIME:,1.57001
+Q01 : Average Particle Kinetic Energy:,4.452809251776518e-06
+Q02 : Average Particle Velocity Magnitude:,0.16143037734112989
+
+TIME:,1.58004
+Q01 : Average Particle Kinetic Energy:,4.0737486859794784e-06
+Q02 : Average Particle Velocity Magnitude:,0.15587404621925505
+
+TIME:,1.59002
+Q01 : Average Particle Kinetic Energy:,3.7916624578736261e-06
+Q02 : Average Particle Velocity Magnitude:,0.15175957225480921
+
+TIME:,1.60005
+Q01 : Average Particle Kinetic Energy:,3.5797742550425163e-06
+Q02 : Average Particle Velocity Magnitude:,0.14913836996547855
+
+TIME:,1.61003
+Q01 : Average Particle Kinetic Energy:,3.3210261416187016e-06
+Q02 : Average Particle Velocity Magnitude:,0.14426036250058427
+
+TIME:,1.62006
+Q01 : Average Particle Kinetic Energy:,3.0335897836902535e-06
+Q02 : Average Particle Velocity Magnitude:,0.13808000383112717
+
+TIME:,1.63003
+Q01 : Average Particle Kinetic Energy:,2.742457485855717e-06
+Q02 : Average Particle Velocity Magnitude:,0.13234246010762959
+
+TIME:,1.64001
+Q01 : Average Particle Kinetic Energy:,2.426546333926578e-06
+Q02 : Average Particle Velocity Magnitude:,0.12461490720807412
+
+TIME:,1.65004
+Q01 : Average Particle Kinetic Energy:,2.1460031266102618e-06
+Q02 : Average Particle Velocity Magnitude:,0.11693824469020278
+
+TIME:,1.66002
+Q01 : Average Particle Kinetic Energy:,1.8915828762181124e-06
+Q02 : Average Particle Velocity Magnitude:,0.11018854141177355
+
+TIME:,1.67005
+Q01 : Average Particle Kinetic Energy:,1.637628496885641e-06
+Q02 : Average Particle Velocity Magnitude:,0.10269598044155789
+
+TIME:,1.68002
+Q01 : Average Particle Kinetic Energy:,1.464856055790613e-06
+Q02 : Average Particle Velocity Magnitude:,0.096367613263918087
+
+TIME:,1.69006
+Q01 : Average Particle Kinetic Energy:,1.2517754007616285e-06
+Q02 : Average Particle Velocity Magnitude:,0.088649457817102151
+
+TIME:,1.70003
+Q01 : Average Particle Kinetic Energy:,1.0756033254684611e-06
+Q02 : Average Particle Velocity Magnitude:,0.081861741804821544
+
+TIME:,1.71
+Q01 : Average Particle Kinetic Energy:,8.7087614382311534e-07
+Q02 : Average Particle Velocity Magnitude:,0.073159792211125077
+
+TIME:,1.72004
+Q01 : Average Particle Kinetic Energy:,7.4968141031933609e-07
+Q02 : Average Particle Velocity Magnitude:,0.066416793596860146
+
+TIME:,1.73001
+Q01 : Average Particle Kinetic Energy:,6.1712101848304828e-07
+Q02 : Average Particle Velocity Magnitude:,0.059212945065898331
+
+TIME:,1.74005
+Q01 : Average Particle Kinetic Energy:,4.90967728994241e-07
+Q02 : Average Particle Velocity Magnitude:,0.051799830194047713
+
+TIME:,1.75002
+Q01 : Average Particle Kinetic Energy:,4.0946470348403891e-07
+Q02 : Average Particle Velocity Magnitude:,0.045009563090638284
+
+TIME:,1.76006
+Q01 : Average Particle Kinetic Energy:,3.273834191900108e-07
+Q02 : Average Particle Velocity Magnitude:,0.038653295661586005
+
+TIME:,1.77003
+Q01 : Average Particle Kinetic Energy:,2.7279105328354397e-07
+Q02 : Average Particle Velocity Magnitude:,0.034022235785937681
+
+TIME:,1.78
+Q01 : Average Particle Kinetic Energy:,2.1873446902452035e-07
+Q02 : Average Particle Velocity Magnitude:,0.029486349968683809
+
+TIME:,1.79004
+Q01 : Average Particle Kinetic Energy:,1.6177243125669326e-07
+Q02 : Average Particle Velocity Magnitude:,0.025417857137416518
+
+TIME:,1.80001
+Q01 : Average Particle Kinetic Energy:,1.3040313732075015e-07
+Q02 : Average Particle Velocity Magnitude:,0.022311698972839879
+
+TIME:,1.81005
+Q01 : Average Particle Kinetic Energy:,9.7497558224269326e-08
+Q02 : Average Particle Velocity Magnitude:,0.019470005598592601
+
+TIME:,1.82002
+Q01 : Average Particle Kinetic Energy:,8.6618078829933146e-08
+Q02 : Average Particle Velocity Magnitude:,0.017675118490420968
+
+TIME:,1.83006
+Q01 : Average Particle Kinetic Energy:,7.7690598403637168e-08
+Q02 : Average Particle Velocity Magnitude:,0.016292799906290852
+
+TIME:,1.84003
+Q01 : Average Particle Kinetic Energy:,6.8428283714443244e-08
+Q02 : Average Particle Velocity Magnitude:,0.014887845691800218
+
+TIME:,1.85
+Q01 : Average Particle Kinetic Energy:,5.0846129920221592e-08
+Q02 : Average Particle Velocity Magnitude:,0.013745333732935735
+
+TIME:,1.86004
+Q01 : Average Particle Kinetic Energy:,4.8795889287186822e-08
+Q02 : Average Particle Velocity Magnitude:,0.012841804739938699
+
+TIME:,1.87001
+Q01 : Average Particle Kinetic Energy:,4.5515616903409242e-08
+Q02 : Average Particle Velocity Magnitude:,0.012100190530550966
+
+TIME:,1.88005
+Q01 : Average Particle Kinetic Energy:,3.8373152045297248e-08
+Q02 : Average Particle Velocity Magnitude:,0.011609097536387196
+
+TIME:,1.89002
+Q01 : Average Particle Kinetic Energy:,3.4859167007620648e-08
+Q02 : Average Particle Velocity Magnitude:,0.011672234411181481
+
+TIME:,1.90006
+Q01 : Average Particle Kinetic Energy:,3.3302729330127558e-08
+Q02 : Average Particle Velocity Magnitude:,0.01134763626326786
+
+TIME:,1.91003
+Q01 : Average Particle Kinetic Energy:,2.9438838849181285e-08
+Q02 : Average Particle Velocity Magnitude:,0.010918823412266973
+
+TIME:,1.92006
+Q01 : Average Particle Kinetic Energy:,3.0470857535582201e-08
+Q02 : Average Particle Velocity Magnitude:,0.011000914892785279
+
+TIME:,1.93004
+Q01 : Average Particle Kinetic Energy:,3.1904460010679875e-08
+Q02 : Average Particle Velocity Magnitude:,0.010724226241086713
+
+TIME:,1.94001
+Q01 : Average Particle Kinetic Energy:,3.0477848821342962e-08
+Q02 : Average Particle Velocity Magnitude:,0.010783175755700557
+
+TIME:,1.95004
+Q01 : Average Particle Kinetic Energy:,2.7648143588693668e-08
+Q02 : Average Particle Velocity Magnitude:,0.010481422572132667
+
+TIME:,1.96002
+Q01 : Average Particle Kinetic Energy:,2.5029131004922364e-08
+Q02 : Average Particle Velocity Magnitude:,0.010331591340745367
+
+TIME:,1.97005
+Q01 : Average Particle Kinetic Energy:,2.5576396286013394e-08
+Q02 : Average Particle Velocity Magnitude:,0.010076174680901421
+
+TIME:,1.98003
+Q01 : Average Particle Kinetic Energy:,1.7293736282751365e-08
+Q02 : Average Particle Velocity Magnitude:,0.0097271323924367839
+
+TIME:,1.99006
+Q01 : Average Particle Kinetic Energy:,1.630490392301869e-08
+Q02 : Average Particle Velocity Magnitude:,0.0093566952715129839
+
+TIME:,2.00003
+Q01 : Average Particle Kinetic Energy:,1.6857515066004724e-08
+Q02 : Average Particle Velocity Magnitude:,0.0090202576865593739
+
+TIME:,2.01001
+Q01 : Average Particle Kinetic Energy:,1.7545042698661302e-08
+Q02 : Average Particle Velocity Magnitude:,0.0089194748519682496
+
+TIME:,2.02004
+Q01 : Average Particle Kinetic Energy:,1.372451673417883e-08
+Q02 : Average Particle Velocity Magnitude:,0.0089880097134515287
+
+TIME:,2.03002
+Q01 : Average Particle Kinetic Energy:,1.5045694851604592e-08
+Q02 : Average Particle Velocity Magnitude:,0.0089172825584965289
+
+TIME:,2.04005
+Q01 : Average Particle Kinetic Energy:,1.6653805788096685e-08
+Q02 : Average Particle Velocity Magnitude:,0.009001481698145096
+
+TIME:,2.05002
+Q01 : Average Particle Kinetic Energy:,1.6056122040307175e-08
+Q02 : Average Particle Velocity Magnitude:,0.008968939898476332
+
+TIME:,2.06006
+Q01 : Average Particle Kinetic Energy:,1.7194581493687391e-08
+Q02 : Average Particle Velocity Magnitude:,0.0088939930569911993
+
+TIME:,2.07003
+Q01 : Average Particle Kinetic Energy:,1.1392898889752656e-08
+Q02 : Average Particle Velocity Magnitude:,0.0087074869467626999
+
+TIME:,2.08
+Q01 : Average Particle Kinetic Energy:,1.0771857826655025e-08
+Q02 : Average Particle Velocity Magnitude:,0.0084109694302269538
+
+TIME:,2.09004
+Q01 : Average Particle Kinetic Energy:,8.902020069465573e-09
+Q02 : Average Particle Velocity Magnitude:,0.0082494368638829745
+
+TIME:,2.10001
+Q01 : Average Particle Kinetic Energy:,9.7247990730639568e-09
+Q02 : Average Particle Velocity Magnitude:,0.0082744979191758123
+
+TIME:,2.11005
+Q01 : Average Particle Kinetic Energy:,7.7721776927430192e-09
+Q02 : Average Particle Velocity Magnitude:,0.0081373987912253826
+
+TIME:,2.12002
+Q01 : Average Particle Kinetic Energy:,7.6142253115361009e-09
+Q02 : Average Particle Velocity Magnitude:,0.0079806069714210195
+
+TIME:,2.13006
+Q01 : Average Particle Kinetic Energy:,8.5052846512209645e-09
+Q02 : Average Particle Velocity Magnitude:,0.0081538564608588607
+
+TIME:,2.14003
+Q01 : Average Particle Kinetic Energy:,9.4207237526187406e-09
+Q02 : Average Particle Velocity Magnitude:,0.0081229233344350758
+
+TIME:,2.15
+Q01 : Average Particle Kinetic Energy:,9.2442622950489956e-09
+Q02 : Average Particle Velocity Magnitude:,0.0080075876974875591
+
+TIME:,2.16004
+Q01 : Average Particle Kinetic Energy:,1.2252425780260163e-08
+Q02 : Average Particle Velocity Magnitude:,0.0080147010932560808
+
+TIME:,2.17001
+Q01 : Average Particle Kinetic Energy:,1.2636860995094261e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081000613787805559
+
+TIME:,2.18005
+Q01 : Average Particle Kinetic Energy:,1.4426408970914084e-08
+Q02 : Average Particle Velocity Magnitude:,0.0079586524396036522
+
+TIME:,2.19002
+Q01 : Average Particle Kinetic Energy:,1.1901036208183546e-08
+Q02 : Average Particle Velocity Magnitude:,0.0079527707879990545
+
+TIME:,2.20006
+Q01 : Average Particle Kinetic Energy:,8.6003822239238768e-09
+Q02 : Average Particle Velocity Magnitude:,0.0079168899049388945
+
+TIME:,2.21003
+Q01 : Average Particle Kinetic Energy:,8.9465456139714757e-09
+Q02 : Average Particle Velocity Magnitude:,0.007792118644482998
+
+TIME:,2.22
+Q01 : Average Particle Kinetic Energy:,9.6895975063659904e-09
+Q02 : Average Particle Velocity Magnitude:,0.0077894964669611875
+
+TIME:,2.23004
+Q01 : Average Particle Kinetic Energy:,1.0793169029710265e-08
+Q02 : Average Particle Velocity Magnitude:,0.0079243030759651896
+
+TIME:,2.24001
+Q01 : Average Particle Kinetic Energy:,1.2486684063880796e-08
+Q02 : Average Particle Velocity Magnitude:,0.007935796408535499
+
+TIME:,2.25005
+Q01 : Average Particle Kinetic Energy:,1.5444480243946918e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081926647784641756
+
+TIME:,2.26002
+Q01 : Average Particle Kinetic Energy:,1.1391455996442553e-08
+Q02 : Average Particle Velocity Magnitude:,0.0082248076235779746
+
+TIME:,2.27006
+Q01 : Average Particle Kinetic Energy:,1.2825681267735643e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081244263968204052
+
+TIME:,2.28003
+Q01 : Average Particle Kinetic Energy:,1.0287446636131065e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081945820826731849
+
+TIME:,2.29006
+Q01 : Average Particle Kinetic Energy:,1.0378457525223896e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081046234884270089
+
+TIME:,2.30004
+Q01 : Average Particle Kinetic Energy:,1.115518018029164e-08
+Q02 : Average Particle Velocity Magnitude:,0.0080708006658437789
+
+TIME:,2.31001
+Q01 : Average Particle Kinetic Energy:,1.07631610049253e-08
+Q02 : Average Particle Velocity Magnitude:,0.0080575578224895833
+
+TIME:,2.32005
+Q01 : Average Particle Kinetic Energy:,1.1137706776510538e-08
+Q02 : Average Particle Velocity Magnitude:,0.008032156302556168
+
+TIME:,2.33002
+Q01 : Average Particle Kinetic Energy:,1.070644331075476e-08
+Q02 : Average Particle Velocity Magnitude:,0.0082165076052495983
+
+TIME:,2.34005
+Q01 : Average Particle Kinetic Energy:,1.0370976412629572e-08
+Q02 : Average Particle Velocity Magnitude:,0.0082778499196824434
+
+TIME:,2.35003
+Q01 : Average Particle Kinetic Energy:,1.1948387199394975e-08
+Q02 : Average Particle Velocity Magnitude:,0.0085044856887987168
+
+TIME:,2.36006
+Q01 : Average Particle Kinetic Energy:,1.3902841028777998e-08
+Q02 : Average Particle Velocity Magnitude:,0.008474021408077825
+
+TIME:,2.37003
+Q01 : Average Particle Kinetic Energy:,1.4538976612736913e-08
+Q02 : Average Particle Velocity Magnitude:,0.0083730777399180761
+
+TIME:,2.38001
+Q01 : Average Particle Kinetic Energy:,1.1984230341317355e-08
+Q02 : Average Particle Velocity Magnitude:,0.008206154821094604
+
+TIME:,2.39004
+Q01 : Average Particle Kinetic Energy:,1.1444690056106021e-08
+Q02 : Average Particle Velocity Magnitude:,0.0079417526046726711
+
+TIME:,2.40002
+Q01 : Average Particle Kinetic Energy:,1.0327108460908209e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081149223335038965
+
+TIME:,2.41005
+Q01 : Average Particle Kinetic Energy:,1.0393874332762768e-08
+Q02 : Average Particle Velocity Magnitude:,0.0080297426434374174
+
+TIME:,2.42002
+Q01 : Average Particle Kinetic Energy:,8.7818114534008579e-09
+Q02 : Average Particle Velocity Magnitude:,0.0080772606047328117
+
+TIME:,2.43006
+Q01 : Average Particle Kinetic Energy:,9.6027928334926193e-09
+Q02 : Average Particle Velocity Magnitude:,0.008273631754974857
+
+TIME:,2.44003
+Q01 : Average Particle Kinetic Energy:,1.0931437821142261e-08
+Q02 : Average Particle Velocity Magnitude:,0.0083645399822919481
+
+TIME:,2.45
+Q01 : Average Particle Kinetic Energy:,1.090301716566394e-08
+Q02 : Average Particle Velocity Magnitude:,0.0083700596585451047
+
+TIME:,2.46004
+Q01 : Average Particle Kinetic Energy:,1.2810559184622687e-08
+Q02 : Average Particle Velocity Magnitude:,0.0083878034131457026
+
+TIME:,2.47001
+Q01 : Average Particle Kinetic Energy:,1.1273383977710228e-08
+Q02 : Average Particle Velocity Magnitude:,0.0083537895215926878
+
+TIME:,2.48005
+Q01 : Average Particle Kinetic Energy:,1.0449402570480375e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081716470685615945
+
+TIME:,2.49002
+Q01 : Average Particle Kinetic Energy:,1.0990229522005044e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081109751992983863
+
+TIME:,2.50006
+Q01 : Average Particle Kinetic Energy:,1.0750174489365488e-08
+Q02 : Average Particle Velocity Magnitude:,0.0081670951230418502
+
