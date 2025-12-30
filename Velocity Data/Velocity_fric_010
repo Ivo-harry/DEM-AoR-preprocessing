@@ -1,0 +1,763 @@
+QUERY DESCRIPTIONS
+
+Q01 : Average Particle Velocity Magnitude
+GROUP/TYPE:,Particle 
+SELECTED OBJECTS:,All
+RANGE:,None
+UNITS:,m/s
+
+EXTRACTED DATA
+
+TIME:,0
+Q01 : Average Particle Velocity Magnitude:,0
+
+TIME:,0.0100125
+Q01 : Average Particle Velocity Magnitude:,0.050318466163875572
+
+TIME:,0.0200058
+Q01 : Average Particle Velocity Magnitude:,0.099311147039107261
+
+TIME:,0.0300155
+Q01 : Average Particle Velocity Magnitude:,0.14845810417743913
+
+TIME:,0.0400089
+Q01 : Average Particle Velocity Magnitude:,0.19750859288679073
+
+TIME:,0.0500021
+Q01 : Average Particle Velocity Magnitude:,0.24644784022871222
+
+TIME:,0.0600108
+Q01 : Average Particle Velocity Magnitude:,0.29601920405780491
+
+TIME:,0.0700032
+Q01 : Average Particle Velocity Magnitude:,0.34499502236192137
+
+TIME:,0.0800088
+Q01 : Average Particle Velocity Magnitude:,0.39478803082466635
+
+TIME:,0.0900137
+Q01 : Average Particle Velocity Magnitude:,0.44468317397632601
+
+TIME:,0.100002
+Q01 : Average Particle Velocity Magnitude:,0.49484110047633401
+
+TIME:,0.110005
+Q01 : Average Particle Velocity Magnitude:,0.54446166412860175
+
+TIME:,0.120009
+Q01 : Average Particle Velocity Magnitude:,0.59374320016966609
+
+TIME:,0.130013
+Q01 : Average Particle Velocity Magnitude:,0.64344726265600038
+
+TIME:,0.140016
+Q01 : Average Particle Velocity Magnitude:,0.69275728751121746
+
+TIME:,0.150003
+Q01 : Average Particle Velocity Magnitude:,0.74154742820299457
+
+TIME:,0.160007
+Q01 : Average Particle Velocity Magnitude:,0.79105491843946951
+
+TIME:,0.170011
+Q01 : Average Particle Velocity Magnitude:,0.8402545158685274
+
+TIME:,0.180014
+Q01 : Average Particle Velocity Magnitude:,0.87340481727876462
+
+TIME:,0.190001
+Q01 : Average Particle Velocity Magnitude:,0.89983053808509783
+
+TIME:,0.200005
+Q01 : Average Particle Velocity Magnitude:,0.92048342950147755
+
+TIME:,0.210008
+Q01 : Average Particle Velocity Magnitude:,0.94033668112614477
+
+TIME:,0.220012
+Q01 : Average Particle Velocity Magnitude:,0.95640852633708939
+
+TIME:,0.230016
+Q01 : Average Particle Velocity Magnitude:,0.93379479598041559
+
+TIME:,0.240003
+Q01 : Average Particle Velocity Magnitude:,0.89376907731027477
+
+TIME:,0.250006
+Q01 : Average Particle Velocity Magnitude:,0.87821205626999244
+
+TIME:,0.26001
+Q01 : Average Particle Velocity Magnitude:,0.83717027832265811
+
+TIME:,0.270014
+Q01 : Average Particle Velocity Magnitude:,0.76226121937305369
+
+TIME:,0.280001
+Q01 : Average Particle Velocity Magnitude:,0.7124700182641639
+
+TIME:,0.290004
+Q01 : Average Particle Velocity Magnitude:,0.69925835504528011
+
+TIME:,0.300008
+Q01 : Average Particle Velocity Magnitude:,0.69135711253082333
+
+TIME:,0.310012
+Q01 : Average Particle Velocity Magnitude:,0.68139343596959667
+
+TIME:,0.320015
+Q01 : Average Particle Velocity Magnitude:,0.6488386128584942
+
+TIME:,0.330002
+Q01 : Average Particle Velocity Magnitude:,0.61104990658524561
+
+TIME:,0.340006
+Q01 : Average Particle Velocity Magnitude:,0.58386119776388212
+
+TIME:,0.35001
+Q01 : Average Particle Velocity Magnitude:,0.54431190005871177
+
+TIME:,0.360013
+Q01 : Average Particle Velocity Magnitude:,0.53055356099244466
+
+TIME:,0.37
+Q01 : Average Particle Velocity Magnitude:,0.50817596803695564
+
+TIME:,0.380004
+Q01 : Average Particle Velocity Magnitude:,0.47801271264291179
+
+TIME:,0.390007
+Q01 : Average Particle Velocity Magnitude:,0.46554760752932101
+
+TIME:,0.400011
+Q01 : Average Particle Velocity Magnitude:,0.46169068688018583
+
+TIME:,0.410015
+Q01 : Average Particle Velocity Magnitude:,0.44133142907336792
+
+TIME:,0.420002
+Q01 : Average Particle Velocity Magnitude:,0.42794407052711941
+
+TIME:,0.430005
+Q01 : Average Particle Velocity Magnitude:,0.43227331777130973
+
+TIME:,0.440009
+Q01 : Average Particle Velocity Magnitude:,0.43863649726104603
+
+TIME:,0.450013
+Q01 : Average Particle Velocity Magnitude:,0.43112600474531754
+
+TIME:,0.460016
+Q01 : Average Particle Velocity Magnitude:,0.40182133927884717
+
+TIME:,0.470003
+Q01 : Average Particle Velocity Magnitude:,0.36455371161937311
+
+TIME:,0.480007
+Q01 : Average Particle Velocity Magnitude:,0.34795375121949229
+
+TIME:,0.490011
+Q01 : Average Particle Velocity Magnitude:,0.34564044124405952
+
+TIME:,0.500014
+Q01 : Average Particle Velocity Magnitude:,0.34528548273858067
+
+TIME:,0.510001
+Q01 : Average Particle Velocity Magnitude:,0.33910945804743287
+
+TIME:,0.520005
+Q01 : Average Particle Velocity Magnitude:,0.34184473608583382
+
+TIME:,0.530008
+Q01 : Average Particle Velocity Magnitude:,0.33408145074967066
+
+TIME:,0.540012
+Q01 : Average Particle Velocity Magnitude:,0.31994725855466677
+
+TIME:,0.550016
+Q01 : Average Particle Velocity Magnitude:,0.30527185389228095
+
+TIME:,0.560003
+Q01 : Average Particle Velocity Magnitude:,0.28506448699420367
+
+TIME:,0.570006
+Q01 : Average Particle Velocity Magnitude:,0.28314925576725586
+
+TIME:,0.58001
+Q01 : Average Particle Velocity Magnitude:,0.279524339516111
+
+TIME:,0.590014
+Q01 : Average Particle Velocity Magnitude:,0.27641174485956072
+
+TIME:,0.600001
+Q01 : Average Particle Velocity Magnitude:,0.26926578279671326
+
+TIME:,0.610004
+Q01 : Average Particle Velocity Magnitude:,0.26347625291224708
+
+TIME:,0.620008
+Q01 : Average Particle Velocity Magnitude:,0.27112599401453141
+
+TIME:,0.630012
+Q01 : Average Particle Velocity Magnitude:,0.26363592334799785
+
+TIME:,0.640015
+Q01 : Average Particle Velocity Magnitude:,0.24263425502463964
+
+TIME:,0.650002
+Q01 : Average Particle Velocity Magnitude:,0.22460191480868025
+
+TIME:,0.660006
+Q01 : Average Particle Velocity Magnitude:,0.22212825561482641
+
+TIME:,0.67001
+Q01 : Average Particle Velocity Magnitude:,0.2240690666733279
+
+TIME:,0.680013
+Q01 : Average Particle Velocity Magnitude:,0.22571086097717041
+
+TIME:,0.69
+Q01 : Average Particle Velocity Magnitude:,0.21781227243211912
+
+TIME:,0.700004
+Q01 : Average Particle Velocity Magnitude:,0.21538290595616871
+
+TIME:,0.710007
+Q01 : Average Particle Velocity Magnitude:,0.20765077224002654
+
+TIME:,0.720011
+Q01 : Average Particle Velocity Magnitude:,0.19793784129816266
+
+TIME:,0.730015
+Q01 : Average Particle Velocity Magnitude:,0.19278335890795684
+
+TIME:,0.740002
+Q01 : Average Particle Velocity Magnitude:,0.19166569349578463
+
+TIME:,0.750005
+Q01 : Average Particle Velocity Magnitude:,0.1890500054558269
+
+TIME:,0.760009
+Q01 : Average Particle Velocity Magnitude:,0.18860471558613801
+
+TIME:,0.770013
+Q01 : Average Particle Velocity Magnitude:,0.18231984438670853
+
+TIME:,0.780016
+Q01 : Average Particle Velocity Magnitude:,0.17394372352370027
+
+TIME:,0.790003
+Q01 : Average Particle Velocity Magnitude:,0.16806084423549114
+
+TIME:,0.800007
+Q01 : Average Particle Velocity Magnitude:,0.16515207919145641
+
+TIME:,0.810011
+Q01 : Average Particle Velocity Magnitude:,0.16323027818998728
+
+TIME:,0.820014
+Q01 : Average Particle Velocity Magnitude:,0.15930740893913881
+
+TIME:,0.830001
+Q01 : Average Particle Velocity Magnitude:,0.15402718476944241
+
+TIME:,0.840005
+Q01 : Average Particle Velocity Magnitude:,0.1523895239658917
+
+TIME:,0.850008
+Q01 : Average Particle Velocity Magnitude:,0.15665186325901234
+
+TIME:,0.860012
+Q01 : Average Particle Velocity Magnitude:,0.15596521707409244
+
+TIME:,0.870016
+Q01 : Average Particle Velocity Magnitude:,0.15424234458780928
+
+TIME:,0.880003
+Q01 : Average Particle Velocity Magnitude:,0.14204019421319949
+
+TIME:,0.890006
+Q01 : Average Particle Velocity Magnitude:,0.13495994221177701
+
+TIME:,0.90001
+Q01 : Average Particle Velocity Magnitude:,0.13229347453871615
+
+TIME:,0.910014
+Q01 : Average Particle Velocity Magnitude:,0.13131038726191913
+
+TIME:,0.920001
+Q01 : Average Particle Velocity Magnitude:,0.12940113013971266
+
+TIME:,0.930004
+Q01 : Average Particle Velocity Magnitude:,0.12825697107544318
+
+TIME:,0.940008
+Q01 : Average Particle Velocity Magnitude:,0.12246154702500804
+
+TIME:,0.950012
+Q01 : Average Particle Velocity Magnitude:,0.11838988050821719
+
+TIME:,0.960015
+Q01 : Average Particle Velocity Magnitude:,0.1170299885730586
+
+TIME:,0.970002
+Q01 : Average Particle Velocity Magnitude:,0.11276825140716192
+
+TIME:,0.980006
+Q01 : Average Particle Velocity Magnitude:,0.11259584513795669
+
+TIME:,0.99001
+Q01 : Average Particle Velocity Magnitude:,0.11149244479967121
+
+TIME:,1.00001
+Q01 : Average Particle Velocity Magnitude:,0.11139275437572384
+
+TIME:,1.01
+Q01 : Average Particle Velocity Magnitude:,0.10666908431220315
+
+TIME:,1.02
+Q01 : Average Particle Velocity Magnitude:,0.10110696330464157
+
+TIME:,1.03001
+Q01 : Average Particle Velocity Magnitude:,0.09720862718383462
+
+TIME:,1.04001
+Q01 : Average Particle Velocity Magnitude:,0.094357246286827762
+
+TIME:,1.05001
+Q01 : Average Particle Velocity Magnitude:,0.087294678928330247
+
+TIME:,1.06
+Q01 : Average Particle Velocity Magnitude:,0.081321548679063854
+
+TIME:,1.07001
+Q01 : Average Particle Velocity Magnitude:,0.071227135031468644
+
+TIME:,1.08001
+Q01 : Average Particle Velocity Magnitude:,0.060834686637610623
+
+TIME:,1.09001
+Q01 : Average Particle Velocity Magnitude:,0.052048816260882869
+
+TIME:,1.10002
+Q01 : Average Particle Velocity Magnitude:,0.043780979041108399
+
+TIME:,1.11
+Q01 : Average Particle Velocity Magnitude:,0.036394290759863383
+
+TIME:,1.12001
+Q01 : Average Particle Velocity Magnitude:,0.026478650357225981
+
+TIME:,1.13001
+Q01 : Average Particle Velocity Magnitude:,0.019183765585391203
+
+TIME:,1.14001
+Q01 : Average Particle Velocity Magnitude:,0.012322809095021339
+
+TIME:,1.15
+Q01 : Average Particle Velocity Magnitude:,0.0082016247120478454
+
+TIME:,1.16
+Q01 : Average Particle Velocity Magnitude:,0.0051903918666230484
+
+TIME:,1.17001
+Q01 : Average Particle Velocity Magnitude:,0.0032531636038643261
+
+TIME:,1.18001
+Q01 : Average Particle Velocity Magnitude:,0.0024678718340370039
+
+TIME:,1.19002
+Q01 : Average Particle Velocity Magnitude:,0.0019510725072381019
+
+TIME:,1.2
+Q01 : Average Particle Velocity Magnitude:,0.0013138398362122364
+
+TIME:,1.21001
+Q01 : Average Particle Velocity Magnitude:,0.0010995446094281558
+
+TIME:,1.22001
+Q01 : Average Particle Velocity Magnitude:,0.00083228859529187269
+
+TIME:,1.23001
+Q01 : Average Particle Velocity Magnitude:,0.00066350569156978483
+
+TIME:,1.24
+Q01 : Average Particle Velocity Magnitude:,0.0007071419730921147
+
+TIME:,1.25
+Q01 : Average Particle Velocity Magnitude:,0.00053306958993794425
+
+TIME:,1.26001
+Q01 : Average Particle Velocity Magnitude:,0.00039804053161267321
+
+TIME:,1.27001
+Q01 : Average Particle Velocity Magnitude:,0.00028672826877981919
+
+TIME:,1.28002
+Q01 : Average Particle Velocity Magnitude:,0.00026637277816750105
+
+TIME:,1.29
+Q01 : Average Particle Velocity Magnitude:,0.00027546396148836027
+
+TIME:,1.30001
+Q01 : Average Particle Velocity Magnitude:,0.0002332792119314244
+
+TIME:,1.31001
+Q01 : Average Particle Velocity Magnitude:,0.016129388171037429
+
+TIME:,1.32001
+Q01 : Average Particle Velocity Magnitude:,0.039777712680365042
+
+TIME:,1.33
+Q01 : Average Particle Velocity Magnitude:,0.0502040388503118
+
+TIME:,1.34
+Q01 : Average Particle Velocity Magnitude:,0.065086334579205013
+
+TIME:,1.35001
+Q01 : Average Particle Velocity Magnitude:,0.081668381555220673
+
+TIME:,1.36001
+Q01 : Average Particle Velocity Magnitude:,0.097964902988430344
+
+TIME:,1.37001
+Q01 : Average Particle Velocity Magnitude:,0.11748849967616394
+
+TIME:,1.38
+Q01 : Average Particle Velocity Magnitude:,0.13552889154734898
+
+TIME:,1.39001
+Q01 : Average Particle Velocity Magnitude:,0.15370689539804799
+
+TIME:,1.40001
+Q01 : Average Particle Velocity Magnitude:,0.1680837977794746
+
+TIME:,1.41001
+Q01 : Average Particle Velocity Magnitude:,0.18387671395108007
+
+TIME:,1.42002
+Q01 : Average Particle Velocity Magnitude:,0.19009876014769872
+
+TIME:,1.43
+Q01 : Average Particle Velocity Magnitude:,0.19761082045513864
+
+TIME:,1.44001
+Q01 : Average Particle Velocity Magnitude:,0.20704447465397161
+
+TIME:,1.45001
+Q01 : Average Particle Velocity Magnitude:,0.21012565015187187
+
+TIME:,1.46001
+Q01 : Average Particle Velocity Magnitude:,0.20770476828583964
+
+TIME:,1.47
+Q01 : Average Particle Velocity Magnitude:,0.20375647391760285
+
+TIME:,1.48
+Q01 : Average Particle Velocity Magnitude:,0.20147825213059969
+
+TIME:,1.49001
+Q01 : Average Particle Velocity Magnitude:,0.20004595431196592
+
+TIME:,1.50001
+Q01 : Average Particle Velocity Magnitude:,0.19346908086624637
+
+TIME:,1.51002
+Q01 : Average Particle Velocity Magnitude:,0.18893566181865007
+
+TIME:,1.52
+Q01 : Average Particle Velocity Magnitude:,0.18786472230921789
+
+TIME:,1.53001
+Q01 : Average Particle Velocity Magnitude:,0.18295699643583957
+
+TIME:,1.54001
+Q01 : Average Particle Velocity Magnitude:,0.17542362563483849
+
+TIME:,1.55001
+Q01 : Average Particle Velocity Magnitude:,0.1706065020812878
+
+TIME:,1.56
+Q01 : Average Particle Velocity Magnitude:,0.16475818385797533
+
+TIME:,1.57
+Q01 : Average Particle Velocity Magnitude:,0.15868178462923518
+
+TIME:,1.58001
+Q01 : Average Particle Velocity Magnitude:,0.15400146322270311
+
+TIME:,1.59001
+Q01 : Average Particle Velocity Magnitude:,0.1495487512037042
+
+TIME:,1.60002
+Q01 : Average Particle Velocity Magnitude:,0.14272543288764047
+
+TIME:,1.61
+Q01 : Average Particle Velocity Magnitude:,0.13946903560205709
+
+TIME:,1.62001
+Q01 : Average Particle Velocity Magnitude:,0.13334826138578515
+
+TIME:,1.63001
+Q01 : Average Particle Velocity Magnitude:,0.12653501644672754
+
+TIME:,1.64001
+Q01 : Average Particle Velocity Magnitude:,0.12268290777401952
+
+TIME:,1.65
+Q01 : Average Particle Velocity Magnitude:,0.11801371978462395
+
+TIME:,1.66
+Q01 : Average Particle Velocity Magnitude:,0.11289929819011546
+
+TIME:,1.67001
+Q01 : Average Particle Velocity Magnitude:,0.10604667811245817
+
+TIME:,1.68001
+Q01 : Average Particle Velocity Magnitude:,0.1020817203624952
+
+TIME:,1.69001
+Q01 : Average Particle Velocity Magnitude:,0.097367095891393557
+
+TIME:,1.7
+Q01 : Average Particle Velocity Magnitude:,0.091506927116977554
+
+TIME:,1.71001
+Q01 : Average Particle Velocity Magnitude:,0.085721395017586521
+
+TIME:,1.72001
+Q01 : Average Particle Velocity Magnitude:,0.07918494831152173
+
+TIME:,1.73001
+Q01 : Average Particle Velocity Magnitude:,0.073999189508787908
+
+TIME:,1.74002
+Q01 : Average Particle Velocity Magnitude:,0.070323443135807115
+
+TIME:,1.75
+Q01 : Average Particle Velocity Magnitude:,0.065753829900918978
+
+TIME:,1.76001
+Q01 : Average Particle Velocity Magnitude:,0.061755185478073474
+
+TIME:,1.77001
+Q01 : Average Particle Velocity Magnitude:,0.056060231519435268
+
+TIME:,1.78001
+Q01 : Average Particle Velocity Magnitude:,0.051794800809810686
+
+TIME:,1.79
+Q01 : Average Particle Velocity Magnitude:,0.047234992324626142
+
+TIME:,1.8
+Q01 : Average Particle Velocity Magnitude:,0.04270867723401451
+
+TIME:,1.81001
+Q01 : Average Particle Velocity Magnitude:,0.036855656245573701
+
+TIME:,1.82001
+Q01 : Average Particle Velocity Magnitude:,0.031874747014560487
+
+TIME:,1.83002
+Q01 : Average Particle Velocity Magnitude:,0.028347629377471609
+
+TIME:,1.84
+Q01 : Average Particle Velocity Magnitude:,0.025573774766492752
+
+TIME:,1.85001
+Q01 : Average Particle Velocity Magnitude:,0.023422432788345226
+
+TIME:,1.86001
+Q01 : Average Particle Velocity Magnitude:,0.020219703726497444
+
+TIME:,1.87001
+Q01 : Average Particle Velocity Magnitude:,0.01739957790227651
+
+TIME:,1.88
+Q01 : Average Particle Velocity Magnitude:,0.01506834205258596
+
+TIME:,1.89
+Q01 : Average Particle Velocity Magnitude:,0.012982216283345933
+
+TIME:,1.90001
+Q01 : Average Particle Velocity Magnitude:,0.011759483408591582
+
+TIME:,1.91001
+Q01 : Average Particle Velocity Magnitude:,0.010579704705112328
+
+TIME:,1.92002
+Q01 : Average Particle Velocity Magnitude:,0.0092960595123254205
+
+TIME:,1.93
+Q01 : Average Particle Velocity Magnitude:,0.0085564456068298392
+
+TIME:,1.94001
+Q01 : Average Particle Velocity Magnitude:,0.0078685004518406435
+
+TIME:,1.95001
+Q01 : Average Particle Velocity Magnitude:,0.007465987124440918
+
+TIME:,1.96001
+Q01 : Average Particle Velocity Magnitude:,0.006284765005739038
+
+TIME:,1.97
+Q01 : Average Particle Velocity Magnitude:,0.0055605615621607896
+
+TIME:,1.98
+Q01 : Average Particle Velocity Magnitude:,0.0051281211633002208
+
+TIME:,1.99001
+Q01 : Average Particle Velocity Magnitude:,0.0046569590771199099
+
+TIME:,2.00001
+Q01 : Average Particle Velocity Magnitude:,0.0041956303092923787
+
+TIME:,2.01001
+Q01 : Average Particle Velocity Magnitude:,0.003838507389919654
+
+TIME:,2.02
+Q01 : Average Particle Velocity Magnitude:,0.0036080690567238546
+
+TIME:,2.03001
+Q01 : Average Particle Velocity Magnitude:,0.0034760412467386525
+
+TIME:,2.04001
+Q01 : Average Particle Velocity Magnitude:,0.0032499601989633962
+
+TIME:,2.05001
+Q01 : Average Particle Velocity Magnitude:,0.0028352053264451569
+
+TIME:,2.06002
+Q01 : Average Particle Velocity Magnitude:,0.0024877978364585616
+
+TIME:,2.07
+Q01 : Average Particle Velocity Magnitude:,0.0022240947639300254
+
+TIME:,2.08001
+Q01 : Average Particle Velocity Magnitude:,0.0020924715341197322
+
+TIME:,2.09001
+Q01 : Average Particle Velocity Magnitude:,0.0020177376497292161
+
+TIME:,2.10001
+Q01 : Average Particle Velocity Magnitude:,0.001903388017475977
+
+TIME:,2.11
+Q01 : Average Particle Velocity Magnitude:,0.0017728648207463499
+
+TIME:,2.12
+Q01 : Average Particle Velocity Magnitude:,0.0017021731677147574
+
+TIME:,2.13001
+Q01 : Average Particle Velocity Magnitude:,0.0015395880151955893
+
+TIME:,2.14001
+Q01 : Average Particle Velocity Magnitude:,0.0013836134193045042
+
+TIME:,2.15002
+Q01 : Average Particle Velocity Magnitude:,0.0012451449354499613
+
+TIME:,2.16
+Q01 : Average Particle Velocity Magnitude:,0.0011689944194270946
+
+TIME:,2.17001
+Q01 : Average Particle Velocity Magnitude:,0.00099242644355842483
+
+TIME:,2.18001
+Q01 : Average Particle Velocity Magnitude:,0.0009236880484613714
+
+TIME:,2.19001
+Q01 : Average Particle Velocity Magnitude:,0.00090660768015275262
+
+TIME:,2.2
+Q01 : Average Particle Velocity Magnitude:,0.00091150050665406623
+
+TIME:,2.21
+Q01 : Average Particle Velocity Magnitude:,0.00075198906800490748
+
+TIME:,2.22001
+Q01 : Average Particle Velocity Magnitude:,0.00068970630756900119
+
+TIME:,2.23001
+Q01 : Average Particle Velocity Magnitude:,0.00059668883588313425
+
+TIME:,2.24002
+Q01 : Average Particle Velocity Magnitude:,0.00058967478971490967
+
+TIME:,2.25
+Q01 : Average Particle Velocity Magnitude:,0.00050270698934319863
+
+TIME:,2.26001
+Q01 : Average Particle Velocity Magnitude:,0.00046253499188205486
+
+TIME:,2.27001
+Q01 : Average Particle Velocity Magnitude:,0.00044358539170935384
+
+TIME:,2.28001
+Q01 : Average Particle Velocity Magnitude:,0.00046478105683607626
+
+TIME:,2.29
+Q01 : Average Particle Velocity Magnitude:,0.00043707001655905113
+
+TIME:,2.3
+Q01 : Average Particle Velocity Magnitude:,0.00047135321717703231
+
+TIME:,2.31001
+Q01 : Average Particle Velocity Magnitude:,0.00044183311436229685
+
+TIME:,2.32001
+Q01 : Average Particle Velocity Magnitude:,0.00038406109855641617
+
+TIME:,2.33001
+Q01 : Average Particle Velocity Magnitude:,0.00035766851709963623
+
+TIME:,2.34
+Q01 : Average Particle Velocity Magnitude:,0.0003550794943713562
+
+TIME:,2.35001
+Q01 : Average Particle Velocity Magnitude:,0.00037249748781113893
+
+TIME:,2.36001
+Q01 : Average Particle Velocity Magnitude:,0.00034941993857399967
+
+TIME:,2.37001
+Q01 : Average Particle Velocity Magnitude:,0.00036730910338562619
+
+TIME:,2.38002
+Q01 : Average Particle Velocity Magnitude:,0.00039033069493626
+
+TIME:,2.39
+Q01 : Average Particle Velocity Magnitude:,0.00035581064521543996
+
+TIME:,2.40001
+Q01 : Average Particle Velocity Magnitude:,0.00032948522105303392
+
+TIME:,2.41001
+Q01 : Average Particle Velocity Magnitude:,0.00033710764923628773
+
+TIME:,2.42001
+Q01 : Average Particle Velocity Magnitude:,0.00034318576267054486
+
+TIME:,2.43
+Q01 : Average Particle Velocity Magnitude:,0.00034089224811977432
+
+TIME:,2.44
+Q01 : Average Particle Velocity Magnitude:,0.00032394754338318089
+
+TIME:,2.45001
+Q01 : Average Particle Velocity Magnitude:,0.00032111109129603183
+
+TIME:,2.46001
+Q01 : Average Particle Velocity Magnitude:,0.00030926998203705008
+
+TIME:,2.47002
+Q01 : Average Particle Velocity Magnitude:,0.00030541641506527802
+
+TIME:,2.48
+Q01 : Average Particle Velocity Magnitude:,0.00030520503947205688
+
+TIME:,2.49001
+Q01 : Average Particle Velocity Magnitude:,0.00030829349524986993
+
+TIME:,2.50001
+Q01 : Average Particle Velocity Magnitude:,0.00031485302836174311
+
